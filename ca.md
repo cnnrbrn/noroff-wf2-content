@@ -45,4 +45,4 @@ For this practical exercise you will be required to automate the assignment that
 
 - For the theory section and case study, place your answers within a PDF.
 - For the case study, please also submit as a seperate PDF.
-- For the practical section, please commit all these files to your git repository and submit the link in the above PDF document.
+- For the practical section, please commit all these files to your git repository and submit the link in the above PDF document. Remember to add the node_modules folder to the .gitignore.
